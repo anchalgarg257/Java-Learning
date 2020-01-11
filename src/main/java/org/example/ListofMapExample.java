@@ -11,7 +11,7 @@ public class ListofMapExample {
         List<Map<String, Integer>> list = new ArrayList<>();
 
         Map<String, Integer> person1 = new HashMap<>();
-        person1.put("Age", 25);
+        person1.put("Age", 2512);
         person1.put("Weight", 50);
         list.add(person1);
 
