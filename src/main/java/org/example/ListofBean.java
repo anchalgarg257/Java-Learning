@@ -8,7 +8,7 @@ public class ListofBean {
     public static void main(String[] args) {
 
         List<Actors> list = new ArrayList<>();
-        list.add(new Actors("Anchal", "A", "1"));
+        list.add(new Actors("Anchal123", "A", "1"));
         list.add(new Actors("Anc", "B", "2"));
         System.out.println(list);
 
