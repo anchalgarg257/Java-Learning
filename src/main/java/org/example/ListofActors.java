@@ -6,7 +6,6 @@ import java.util.Map;
 public class ListofActors {
     public static void main (String [] args) {
 
-
         Map<String, Actors> Actors = new HashMap<>();
 
         Actors.put("1", new Actors("Salman", "A", "1000cr"));
